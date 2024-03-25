@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["ono.shuhei210@gmail.com"]
 
   spec.summary = "A tool for generating Ruby files from schema.graphql for use with graphql-ruby."
-  spec.description = "graphql-gen is a gem that automates the process of generating Ruby files based on a schema.graphql file. It is specifically designed to work with the graphql-ruby gem, streamlining the development of GraphQL APIs in Ruby by generating the necessary boilerplate code for types, queries, mutations, and subscriptions defined within your GraphQL schema."
+  spec.description = "gem that automates the process of generating Ruby files based on a schema.graphql file. "
   spec.homepage = "https://github.com/shuheix/graphql-gen"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
